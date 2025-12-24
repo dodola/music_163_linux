@@ -15,9 +15,9 @@ class ShortcutManager {
     this.defaultShortcuts = {
       next: 'CommandOrControl+Right',
       previous: 'CommandOrControl+Left',
-      playPause: 'CommandOrControl+Space',
-      volumeUp: 'CommandOrControl+Up',
-      volumeDown: 'CommandOrControl+Down'
+      playPause: '',
+      volumeUp: '',
+      volumeDown: ''
     };
   }
 

@@ -54,9 +54,11 @@ npm run build:linux  # Linux
 |------|--------------|-------|
 | 下一首 | `Ctrl+Right` | `Command+Right` |
 | 上一首 | `Ctrl+Left` | `Command+Left` |
-| 播放/暂停 | `Ctrl+Space` | `Command+Space` |
-| 音量增加 | `Ctrl+Up` | `Command+Up` |
-| 音量减少 | `Ctrl+Down` | `Command+Down` |
+| 播放/暂停 | 未设置 | 未设置 |
+| 音量增加 | 未设置 | 未设置 |
+| 音量减少 | 未设置 | 未设置 |
+
+> 💡 提示：播放/暂停和音量调整快捷键默认未设置，你可以在设置中自定义配置。
 
 ### 自定义快捷键
 
