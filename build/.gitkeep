@@ -1,0 +1,5 @@
+# This file ensures the build directory is tracked by git
+# Add your icon files here:
+# - icon.icns (macOS)
+# - icon.ico (Windows)
+# - icon.png (Linux)
