@@ -36,6 +36,16 @@ npm run build:win    # Windows
 npm run build:linux  # Linux
 ```
 
+## 应用截图
+
+### 主界面
+
+![主界面](res/main.png)
+
+### 快捷键设置
+
+![快捷键设置](res/settings.png)
+
 ## 快捷键功能
 
 ### 默认快捷键
